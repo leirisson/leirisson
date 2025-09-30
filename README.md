@@ -31,7 +31,7 @@
 
 ## 💼 Experiência Profissional
 
-- **Analista de TI** – *[Nome da Empresa]*  
+- **Analista de TI** – *GRUPO BRINGEL*  
   - Gerenciamento de infraestrutura de TI  
   - Suporte técnico avançado  
   - Implementação de soluções tecnológicas  
