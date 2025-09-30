@@ -2,7 +2,6 @@
 
 💻 Analista de TI | Técnico em Informática  
 📚 Formado em **Análise e Desenvolvimento de Sistemas**  
-🎓 Cursando **Pós-graduação em Engenharia de Software**  
 🚀 Apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras.  
 
 ---
